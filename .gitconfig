@@ -1,0 +1,5 @@
+[user]
+	name = Jon Lieblich
+	email = jlieblich1@gmail.com
+[core]
+	excludesfiles = /Users/jonlieblich/.gitignore_global
